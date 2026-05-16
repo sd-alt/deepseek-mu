@@ -1,6 +1,6 @@
 # DeepSeek++ Mobile Userscript
 
-这是给网页端准备的轻量版 DeepSeek++。它不是 Chrome 扩展，而是 userscript，可以在安卓浏览器里通过脚本管理器运行。
+原项目是deepseek-pp ，这是二改版，这是给网页端准备的轻量版 DeepSeek++。它不是 Chrome 扩展，而是 userscript，可以在安卓浏览器里通过脚本管理器运行。
 
 ## 功能
 
